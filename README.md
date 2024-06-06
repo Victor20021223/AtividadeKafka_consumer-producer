@@ -12,9 +12,9 @@ project/
 │   ├── requirements.txt
 │   └── Dockerfile
 ├── consumer/
-│   ├── app.js
-│   ├── package.json
-│   └── Dockerfile
+│       ##app.js
+│       ##package.json
+│       ##Dockerfile
 ├── docker-compose.yml
 └── README.md
 
