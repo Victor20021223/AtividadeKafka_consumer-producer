@@ -7,20 +7,16 @@ Este projeto implementa um sistema produtor/consumidor utilizando Apache Kafka p
 ## Estrutura do Projeto
 
 project/
-│
 ├── producer/
 │   ├── app.py
 │   ├── requirements.txt
 │   └── Dockerfile
-│
 ├── consumer/
 │   ├── app.js
 │   ├── package.json
 │   └── Dockerfile
-│
 ├── docker-compose.yml
 └── README.md
-
 
 
 ## Pré-requisitos
